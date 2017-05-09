@@ -19,7 +19,7 @@ const appRoutes: Routes = [
     component: PostListComponent
   },
   {
-    path: 'post/:id',
+    path: 'posts/:id',
     component: PostDetailComponent
   }
  ];

@@ -19,7 +19,7 @@ export class PostListComponent implements OnInit {
   }
 
   goToDetailPage(clickedPost) {
-    this.router.navigate(['post', clickedPost.$key]);
+    this.router.navigate(['posts', clickedPost.$key]);
   };
 
 }

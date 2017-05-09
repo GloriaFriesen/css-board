@@ -13,4 +13,8 @@ export class PostService {
   getPosts() {
     return this.posts;
   }
+
+  getPostById(postId: string) {
+    return this.database.object('posts/' + postId);
+  }
 }
