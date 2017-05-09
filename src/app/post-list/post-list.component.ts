@@ -18,4 +18,8 @@ export class PostListComponent implements OnInit {
     this.posts = this.postService.getPosts();
   }
 
+  goToDetailPage(clickedPost) {
+    this.router.navigate(['post', clickedPost.$key]);
+  };
+
 }
