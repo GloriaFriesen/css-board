@@ -1,0 +1,17 @@
+{ "posts": [{
+    "title": "Animated Hamburger",
+    "content": "http://codepen.io/DawidKrajewski/pen/GgErVO",
+    "author": "Megan.",
+    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwigop3P6-PTAhWnwVQKHZXICbUQjRwIBw&url=https%3A%2F%2Fwww.thisiswhyimbroke.com%2Fhamburger-bed%2F&psig=AFQjCNF0sW6OPLyR9zhc-hcqdoxrgsuHYg&ust=1494454644720594"
+    }, {
+    "title": "CSS Shapes",
+    "content": "http://www.species-in-pieces.com/",
+    "author": "Gloria",
+    "image": "http://www.designbolts.com/wp-content/uploads/2015/08/AFRICAN-PENGUIN.jpg"
+      }, {
+    "title": "Flexbox",
+    "content": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "author": "Dallas",
+    "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.ideachampions.com%2Fweblogs%2Fman-peeking-out-of-moving-box.jpg&imgrefurl=http%3A%2F%2Fwww.ideachampions.com%2Fweblogs%2Farchives%2F2011%2F03%2Funless_youve_be.shtml&docid=cx1y0YjdfuX29M&tbnid=0dw_-HSzLN63SM%3A&vet=10ahUKEwjyoPnT7OPTAhVDh1QKHXLNCb4QMwjgAShaMFo..i&w=640&h=427&bih=1221&biw=1461&q=box&ved=0ahUKEwjyoPnT7OPTAhVDh1QKHXLNCb4QMwjgAShaMFo&iact=mrc&uact=8"
+  }]
+}
